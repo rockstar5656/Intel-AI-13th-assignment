@@ -1,2 +1,6 @@
-0 Normal
-1 Anomaly
+0 Good
+1 Color
+2 Cut
+3 Fold
+4 Glue
+5 Poke
